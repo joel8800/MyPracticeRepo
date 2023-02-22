@@ -1,2 +1,2 @@
 # MyPracticeRepo
-# This software is a "Hello, World" program.
+# This is a "Hello, World" program.
